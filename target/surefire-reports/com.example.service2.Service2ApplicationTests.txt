@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.service2.Service2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.882 s - in com.example.service2.Service2ApplicationTests
